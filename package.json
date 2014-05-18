@@ -1,0 +1,11 @@
+{
+  "author": "Doozer",
+  "name": "web-api-code-example",
+  "description": "A simple node.js service to fetch an access token and use it against the Web API",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^3.0.0",
+    "restler": "~3.2.0"
+  }
+}
